@@ -29,9 +29,6 @@ export const AuthComponent = () => {
         </button>
       </>
       )}
-      <div className="flex justify-center mt-4 h-1/6">
-
-      </div>
     </>
   )
 }
